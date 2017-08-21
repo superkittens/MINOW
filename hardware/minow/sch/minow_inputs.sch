@@ -1,78 +1,36 @@
 EESchema Schematic File Version 2
-LIBS:74xgxx
-LIBS:74xx
-LIBS:ac-dc
-LIBS:actel
-LIBS:adc-dac
-LIBS:Altera
-LIBS:analog_switches
-LIBS:atmel
-LIBS:audio
-LIBS:brooktre
-LIBS:cmos_ieee
-LIBS:cmos4000
-LIBS:conn
-LIBS:contrib
-LIBS:cypress
-LIBS:dc-dc
-LIBS:device
-LIBS:digital-audio
-LIBS:display
-LIBS:dsp
-LIBS:elec-unifil
-LIBS:ESD_Protection
-LIBS:ftdi
-LIBS:gennum
-LIBS:graphic
-LIBS:hc11
-LIBS:intel
-LIBS:interface
-LIBS:ir
-LIBS:Lattice
-LIBS:linear
-LIBS:logo
-LIBS:memory
-LIBS:microcontrollers
-LIBS:motor_drivers
-LIBS:nxp_armmcu
-LIBS:opto
-LIBS:Oscillators
-LIBS:philips
-LIBS:Power_Management
 LIBS:power
-LIBS:powerint
-LIBS:pspice
-LIBS:references
-LIBS:regul
-LIBS:relays
-LIBS:rfcom
-LIBS:sensors
-LIBS:siliconi
-LIBS:supertex
-LIBS:switches
-LIBS:texas
-LIBS:transf
+LIBS:device
 LIBS:transistors
-LIBS:ttl_ieee
-LIBS:valves
-LIBS:video
-LIBS:Xicor
-LIBS:silabs
-LIBS:taos
-LIBS:bosch
-LIBS:knowles
-LIBS:Melexis
-LIBS:globaltop
-LIBS:stm8
-LIBS:stm32
-LIBS:st
-LIBS:analog_devices
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
 LIBS:microchip
-LIBS:onsemi
-LIBS:bourns
-LIBS:diode
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
 LIBS:maxim
-LIBS:minow-cache
+LIBS:nxp_armmcu
+LIBS:silabs
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -614,7 +572,7 @@ AC 8C 0D B8 7B DC C5 65 09 F2 7A 83 21 88 97 89 19 77 76 7D 48 0F A2 CD 97 EB 90
 E1 E9 0D E5 C1 46 32 0C 42 59 14 2E 43 BC 1D 0B 6D 96 65 16 8A 1B 6F 23 F9 1D 51 3B 7A CF B1 15 
 79 9A 3D E9 89 66 18 7D 96 72 9E EE 36 E4 DD AC 41 A5 AB 13 A8 4C C3 D4 E8 DD 34 A3 D8 EA 75 E8 
 86 ED 52 F9 32 0C A3 0C 95 EC 6C 8E 41 01 F8 33 D1 CE F9 0C CC 28 F7 45 FC B8 EC 13 28 E5 F1 2F 
-84 DB 96 1B 86 51 01 FF 1F CC F4 27 F1 0E 85 7B BF 00 00 00 00 49 45 4E 44 AE 42 60 82 00 
+84 DB 96 1B 86 51 01 FF 1F CC F4 27 F1 0E 85 7B BF 00 00 00 00 49 45 4E 44 AE 42 60 82 EA 
 EndData
 $EndBitmap
 $Comp
