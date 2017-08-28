@@ -31,6 +31,17 @@ LIBS:valves
 LIBS:maxim
 LIBS:nxp_armmcu
 LIBS:silabs
+LIBS:analog_devices
+LIBS:onsemi
+LIBS:globaltop
+LIBS:diode
+LIBS:knowles
+LIBS:bourns
+LIBS:Melexis
+LIBS:taos
+LIBS:sensors
+LIBS:ESD_Protection
+LIBS:minow-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
