@@ -41,6 +41,7 @@ LIBS:Melexis
 LIBS:taos
 LIBS:sensors
 LIBS:ESD_Protection
+LIBS:bosch
 LIBS:minow-cache
 EELAYER 25 0
 EELAYER END
